@@ -1,1 +1,7 @@
-Read Me
+In order to run this code, 
+
+Please download the files and enter
+npm init
+
+upon completion
+npm install lite-server
